@@ -33,3 +33,6 @@
 ### As Pandas
 [Best C++ Alternatives to Pandas](https://www.reddit.com/r/cpp/comments/hx3fd9/best_c_alternatives_to_pandas/)     
 9.01.2023 [C++ DataFrame for statistical, Financial, and ML analysis -- in modern C++ using native types, continuous memory storage, and no pointers are involved](https://bestofcpp.com/repo/hosseinmoein-DataFrame-cpp-data-structures)             
+
+### ML         
+[Top 14 C++ Machine Learning Libraries](https://anywhere.epam.com/business/c-plus-plus-ml-libraries)                  
