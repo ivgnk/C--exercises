@@ -5,12 +5,16 @@
 [27.11.2017 Conan: менеджер зависимостей для C/C++](https://habr.com/ru/articles/342982/)             
 
 ## Libraries
-### In Wiki
+### Lists 
+#### In Wiki
 **https://en.wikipedia.org/wiki/Category:C%2B%2B_libraries**            
 **https://de.wikipedia.org/wiki/Kategorie:C%2B%2B-Bibliothek**        
 
 **https://en.wikipedia.org/wiki/List_of_numerical_libraries#C++**    
 **https://en.wikipedia.org/wiki/List_of_platform-independent_GUI_libraries#In_C,_C++**
+
+#### In Others           
+[Scientific computing in Cpp](https://www.reddit.com/r/cpp/comments/lmc4to/scientific_computing_in_cpp/)           
 
 ### Wrappers
 **[pybind - Seamless operability between C++ and Python](https://github.com/pybind)**              
