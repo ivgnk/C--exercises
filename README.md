@@ -6,3 +6,6 @@
 
 ## Libraries
 6.08.2023 [Импортозамещаем numpy, pandas, scipy и sklearn](https://habr.com/ru/articles/752762/) - C++ аналоги
+
+[Best C++ Alternatives to Pandas](https://www.reddit.com/r/cpp/comments/hx3fd9/best_c_alternatives_to_pandas/)         
+
