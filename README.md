@@ -34,6 +34,14 @@
 ### As Matplotlib
 [plotting package for c++](https://stackoverflow.com/questions/4283731/plotting-package-for-c)         
 
+### As Sympy
+[symbolic computation in C++](https://stackoverflow.com/questions/11325514/symbolic-computation-in-c)            
+https://bestofcpp.com/repo/symengine-symengine-cpp-math                
+
+[Provides interface for c++ for some functions of sympy](https://github.com/rlalik/sympy2cpp?ysclid=lrpe35uypa536205782) - 2015 year                   
+
+
+
 ### As Pandas
 [Best C++ Alternatives to Pandas](https://www.reddit.com/r/cpp/comments/hx3fd9/best_c_alternatives_to_pandas/)     
 9.01.2023 [C++ DataFrame for statistical, Financial, and ML analysis -- in modern C++ using native types, continuous memory storage, and no pointers are involved](https://bestofcpp.com/repo/hosseinmoein-DataFrame-cpp-data-structures)             
