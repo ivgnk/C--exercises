@@ -15,6 +15,7 @@
 
 #### In Others           
 [Scientific computing in Cpp](https://www.reddit.com/r/cpp/comments/lmc4to/scientific_computing_in_cpp/)           
+https://www.codeproject.com/Tags/Cplusplus               
 
 ### Wrappers
 **[pybind - Seamless operability between C++ and Python](https://github.com/pybind)**              
