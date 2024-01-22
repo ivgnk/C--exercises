@@ -21,6 +21,9 @@
 [SO: NumPy style arrays for C++?](https://stackoverflow.com/questions/11169418/numpy-style-arrays-for-c)                     
 [Reddit: Numpy equivalent in c/c++](https://www.reddit.com/r/computervision/comments/aj8cb7/numpy_equivalent_in_cc)           
 
+### As Scipy
+[Equivalent of python:scipy.optimize() in C++?](https://stackoverflow.com/questions/10642999/equivalent-of-pythonscipy-optimize-in-c)            
+
 ### As Matplotlib
 [plotting package for c++](https://stackoverflow.com/questions/4283731/plotting-package-for-c)         
 
