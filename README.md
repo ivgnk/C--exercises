@@ -5,7 +5,10 @@
 [27.11.2017 Conan: менеджер зависимостей для C/C++](https://habr.com/ru/articles/342982/)             
 
 ## Libraries
-**https://en.wikipedia.org/wiki/List_of_numerical_libraries#C++**                       
+### In Wiki
+**https://en.wikipedia.org/wiki/List_of_numerical_libraries#C++**    
+**https://en.wikipedia.org/wiki/List_of_platform-independent_GUI_libraries#In_C,_C++**
+
 6.08.2023 [Импортозамещаем numpy, pandas, scipy и sklearn](https://habr.com/ru/articles/752762/) - C++ аналоги                  
 
 ### As NumPy
