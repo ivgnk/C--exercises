@@ -8,8 +8,8 @@
 6.08.2023 [Импортозамещаем numpy, pandas, scipy и sklearn](https://habr.com/ru/articles/752762/) - C++ аналоги
 
 ### As NumPy
-**https://github.com/dpilger26/NumCpp**
-[NumPy style arrays for C++?](https://stackoverflow.com/questions/11169418/numpy-style-arrays-for-c)          
+**https://github.com/dpilger26/NumCpp**                     
+[NumPy style arrays for C++?](https://stackoverflow.com/questions/11169418/numpy-style-arrays-for-c)                     
 
 ### As Matplotlib
 [plotting package for c++](https://stackoverflow.com/questions/4283731/plotting-package-for-c)         
