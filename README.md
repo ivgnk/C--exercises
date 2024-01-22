@@ -13,6 +13,9 @@
 **https://en.wikipedia.org/wiki/List_of_platform-independent_GUI_libraries#In_C,_C++**
 
 
+**[pybind - Seamless operability between C++ and Python](https://github.com/pybind)**              
+**[C++11 wrapper for NumPy, SciPy and Matplotlib using pybind11](https://github.com/yokaze/pyscience11)**                        
+
 
 6.08.2023 [Импортозамещаем numpy, pandas, scipy и sklearn](https://habr.com/ru/articles/752762/) - C++ аналоги                  
 
