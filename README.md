@@ -64,5 +64,5 @@ https://bestofcpp.com/repo/symengine-symengine-cpp-math
 2019 [Machine Learning Library for C++ (No Dependencies)](https://www.codeproject.com/Articles/5246467/Machine-Learning-Library-for-Cplusplus-No-Dependen)           
 
 # Sites / Authors            
-[Michael Kerrisk](man7.org)              
+**[Michael Kerrisk](man7.org)**              
 [Book: Michael Kerrisk. The Linux Programming Interface](https://man7.org/tlpi/index.html)          
