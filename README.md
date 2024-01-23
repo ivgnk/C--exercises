@@ -5,6 +5,9 @@
 [C++ Language Reference](https://learn.microsoft.com/en-us/previous-versions/3bstk3k5(v=vs.140))       
 [C++ Standard Library Reference](https://learn.microsoft.com/en-us/previous-versions/cscc687y(v=vs.140))           
 
+**[C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)**              
+
+
 ## Wiki
 [C++23](https://ru.wikipedia.org/wiki/C%2B%2B23)   [C++20](https://ru.wikipedia.org/wiki/C%2B%2B20)   [C++17](https://ru.wikipedia.org/wiki/C%2B%2B17)  [C++14](https://ru.wikipedia.org/wiki/C%2B%2B14)            
 [C++11](https://ru.wikipedia.org/wiki/C%2B%2B11)   [C++03 и более ранние](https://ru.wikipedia.org/wiki/C%2B%2B03)            
