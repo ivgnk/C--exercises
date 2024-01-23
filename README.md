@@ -9,6 +9,7 @@ MS: [Санитайзеры C и C++ | Инструментирование ко
 
 **[C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)**              
 20.01.2023 [Нельзя писать безопасный код на C++ без санитайзеров](https://habr.com/ru/articles/787776/)         
+12.01.2023 [Малоизвестные и интересные особенности C и C++](https://habr.com/ru/articles/786096/)           
 
 ## Wiki
 [C++23](https://ru.wikipedia.org/wiki/C%2B%2B23)   [C++20](https://ru.wikipedia.org/wiki/C%2B%2B20)   [C++17](https://ru.wikipedia.org/wiki/C%2B%2B17)  [C++14](https://ru.wikipedia.org/wiki/C%2B%2B14)            
