@@ -10,6 +10,9 @@ https://ya.ru/search/?text=gnu+compiler+collection+g%2B%2B+хелп&lr=50
 https://ru.wikipedia.org/wiki/GNU_Compiler_Collection                    
 https://ru.wikipedia.org/wiki/MinGW                 
 
+### Configuration                     
+24.02.2023 [Установка компилятора gcc и Visual Studio Code на ОС Windows | Язык C для начинающих](https://www.youtube.com/watch?v=TGpYh9X1PYk)                     
+
 # Package Managers
 **[Package Managers for C++](https://hackingcpp.com/cpp/tools/package_managers.html)**          
 
