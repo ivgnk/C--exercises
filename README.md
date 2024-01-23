@@ -32,6 +32,10 @@ https://ru.wikipedia.org/wiki/MinGW
 [Scientific computing in Cpp](https://www.reddit.com/r/cpp/comments/lmc4to/scientific_computing_in_cpp/)           
 https://www.codeproject.com/Tags/Cplusplus               
 
+## Boost
+**https://sourceforge.net/projects/boost**                
+21.03.2013 [Сравнение C++ Standard и Boost](https://habr.com/ru/articles/173639/)               
+
 ## Wrappers
 **[pybind - Seamless operability between C++ and Python](https://github.com/pybind)**              
 **[C++11 wrapper for NumPy, SciPy and Matplotlib using pybind11](https://github.com/yokaze/pyscience11)**                        
@@ -55,8 +59,6 @@ https://www.codeproject.com/Tags/Cplusplus
 https://bestofcpp.com/repo/symengine-symengine-cpp-math                
 
 [Provides interface for c++ for some functions of sympy](https://github.com/rlalik/sympy2cpp?ysclid=lrpe35uypa536205782) - 2015 year                   
-
-
 
 ## As Pandas
 [Best C++ Alternatives to Pandas](https://www.reddit.com/r/cpp/comments/hx3fd9/best_c_alternatives_to_pandas/)     
