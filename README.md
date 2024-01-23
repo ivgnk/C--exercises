@@ -6,7 +6,7 @@
 [C++ Standard Library Reference](https://learn.microsoft.com/en-us/previous-versions/cscc687y(v=vs.140))           
 
 **[C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)**              
-
+20.01.2023 [Нельзя писать безопасный код на C++ без санитайзеров](https://habr.com/ru/articles/787776/)         
 
 ## Wiki
 [C++23](https://ru.wikipedia.org/wiki/C%2B%2B23)   [C++20](https://ru.wikipedia.org/wiki/C%2B%2B20)   [C++17](https://ru.wikipedia.org/wiki/C%2B%2B17)  [C++14](https://ru.wikipedia.org/wiki/C%2B%2B14)            
@@ -51,11 +51,13 @@ https://www.codeproject.com/Tags/Cplusplus
 ## Boost
 **https://sourceforge.net/projects/boost**                
 21.03.2013 [Сравнение C++ Standard и Boost](https://habr.com/ru/articles/173639/)               
+https://cpp.libhunt.com/boost-alternatives             
+
+
 
 ## Wrappers
 **[pybind - Seamless operability between C++ and Python](https://github.com/pybind)**              
 **[C++11 wrapper for NumPy, SciPy and Matplotlib using pybind11](https://github.com/yokaze/pyscience11)**                        
-
 
 6.08.2023 [Импортозамещаем numpy, pandas, scipy и sklearn](https://habr.com/ru/articles/752762/) - C++ аналоги                  
 
