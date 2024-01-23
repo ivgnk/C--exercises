@@ -11,7 +11,7 @@
 [C++17](https://ru.wikipedia.org/wiki/C%2B%2B17)            
 [C++14](https://ru.wikipedia.org/wiki/C%2B%2B14)            
 [C++11](https://ru.wikipedia.org/wiki/C%2B%2B11)            
-[C++04](https://ru.wikipedia.org/wiki/C%2B%2B03)            
+[C++03 и более ранние](https://ru.wikipedia.org/wiki/C%2B%2B03)            
 
 
 # Complilers
