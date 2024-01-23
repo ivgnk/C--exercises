@@ -39,6 +39,9 @@ https://ru.wikipedia.org/wiki/MinGW
 [27.11.2017 Conan: менеджер зависимостей для C/C++](https://habr.com/ru/articles/342982/)             
 
 # Libraries
+
+[Лучшие фреймворки для C++ в 2023 году](https://codelab.pro/luchshie-frejmvorki-dlya-c-v-2023-godu/)           
+
 ## Lists 
 ### In Wiki
 **https://en.wikipedia.org/wiki/Category:C%2B%2B_libraries**            
@@ -55,7 +58,6 @@ https://www.codeproject.com/Tags/Cplusplus
 **https://sourceforge.net/projects/boost**                
 21.03.2013 [Сравнение C++ Standard и Boost](https://habr.com/ru/articles/173639/)               
 https://cpp.libhunt.com/boost-alternatives             
-
 
 
 ## Wrappers
