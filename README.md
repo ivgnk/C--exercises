@@ -6,6 +6,9 @@ https://gcc.gnu.org/onlinedocs/gcc.pdf
 
 https://yandex.ru/search/?clid=2353835&text=GNU+compiler+collection
 https://ya.ru/search/?text=gnu+compiler+collection+g%2B%2B+хелп&lr=50                     
+- - -                
+https://ru.wikipedia.org/wiki/GNU_Compiler_Collection                    
+https://ru.wikipedia.org/wiki/MinGW                 
 
 # Package Managers
 **[Package Managers for C++](https://hackingcpp.com/cpp/tools/package_managers.html)**          
