@@ -62,3 +62,7 @@ https://bestofcpp.com/repo/symengine-symengine-cpp-math
 ## ML         
 10.01.2024 **[Top 14 C++ Machine Learning Libraries](https://anywhere.epam.com/business/c-plus-plus-ml-libraries)**                  
 2019 [Machine Learning Library for C++ (No Dependencies)](https://www.codeproject.com/Articles/5246467/Machine-Learning-Library-for-Cplusplus-No-Dependen)           
+
+# Sites / Authors            
+[Michael Kerrisk](man7.org)              
+[Book: Michael Kerrisk. The Linux Programming Interface](https://man7.org/tlpi/index.html)          
