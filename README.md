@@ -86,3 +86,6 @@ https://bestofcpp.com/repo/symengine-symengine-cpp-math
 
 **[Michael Kerrisk](man7.org)**              
 [Book: Michael Kerrisk. The Linux Programming Interface](https://man7.org/tlpi/index.html)          
+
+- - -
+**[Ликбез по типизации в языках программирования](https://habr.com/ru/articles/161205/)**          
