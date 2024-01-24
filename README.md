@@ -9,11 +9,14 @@ MS: [C++ Language Reference](https://learn.microsoft.com/en-us/previous-versions
 MS: [C++ Standard Library Reference](https://learn.microsoft.com/en-us/previous-versions/cscc687y(v=vs.140))           
 MS: [Санитайзеры C и C++ | Инструментирование кода для выявления ошибок в среде выполнения](https://learn.microsoft.com/ru-ru/cpp/sanitizers/?view=msvc-170)        
 
-**cplusplus.com**:                 
+**cplusplus.com** [ENG]:                 
 https://cplusplus.com                       
 https://cplusplus.com/doc (Tutorials)                   
 https://cplusplus.com/reference                 
-https://cplusplus.com/reference/string/string                      
+https://cplusplus.com/reference/string/string          
+
+**http://cppstudio.com** [RUS]:            
+
 
 **[C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)**              
 20.01.2023 [Нельзя писать безопасный код на C++ без санитайзеров](https://habr.com/ru/articles/787776/)         
