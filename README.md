@@ -1,4 +1,6 @@
 # Language
+
+## References / Справочники
 **[GCC: C++ Standards Support in GCC](https://gcc.gnu.org/projects/cxx-status.html)**              
 **[MVS: Support For C++11/14/17 Features (Modern C++)](https://learn.microsoft.com/en-us/previous-versions/hh567368(v=vs.140))**
 
@@ -6,6 +8,12 @@
 MS: [C++ Language Reference](https://learn.microsoft.com/en-us/previous-versions/3bstk3k5(v=vs.140))               
 MS: [C++ Standard Library Reference](https://learn.microsoft.com/en-us/previous-versions/cscc687y(v=vs.140))           
 MS: [Санитайзеры C и C++ | Инструментирование кода для выявления ошибок в среде выполнения](https://learn.microsoft.com/ru-ru/cpp/sanitizers/?view=msvc-170)        
+
+**cplusplus.com**:                 
+https://cplusplus.com                       
+https://cplusplus.com/doc (Tutorials)                   
+https://cplusplus.com/reference                 
+https://cplusplus.com/reference/string/string                      
 
 **[C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)**              
 20.01.2023 [Нельзя писать безопасный код на C++ без санитайзеров](https://habr.com/ru/articles/787776/)         
