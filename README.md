@@ -1,9 +1,16 @@
 # Language
 
 ## References / Справочники
+### Com[ilers & standards
+**https://en.cppreference.com/w/cpp/compiler_support**                 
 **[GCC: C++ Standards Support in GCC](https://gcc.gnu.org/projects/cxx-status.html)**              
 **[MVS: Support For C++11/14/17 Features (Modern C++)](https://learn.microsoft.com/en-us/previous-versions/hh567368(v=vs.140))**
+**https://runebook.dev/ru/docs/cpp/compiler_support**                          
+**https://clang.llvm.org/cxx_status.html**             
+[C++ CompilerSupport](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=118165827)          
+**2023 [Соответствие стандартам языка Microsoft C/C++ в зависимости от версии Visual Studio](https://learn.microsoft.com/ru-ru/cpp/overview/visual-cpp-language-conformance?view=msvc-160)**                         
 
+### Docs
 **MS: [Документация по Microsoft C++, C и ассемблеру](https://learn.microsoft.com/ru-ru/cpp/?view=msvc-170)**               
 MS: [C++ Language Reference](https://learn.microsoft.com/en-us/previous-versions/3bstk3k5(v=vs.140))               
 MS: [C++ Standard Library Reference](https://learn.microsoft.com/en-us/previous-versions/cscc687y(v=vs.140))           
