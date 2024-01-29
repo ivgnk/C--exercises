@@ -1,7 +1,7 @@
 # Language
 
 ## References / Справочники
-### Com[ilers & standards
+### Compilers & standards
 **https://en.cppreference.com/w/cpp/compiler_support**                 
 **[GCC: C++ Standards Support in GCC](https://gcc.gnu.org/projects/cxx-status.html)**              
 **[MVS: Support For C++11/14/17 Features (Modern C++)](https://learn.microsoft.com/en-us/previous-versions/hh567368(v=vs.140))**
