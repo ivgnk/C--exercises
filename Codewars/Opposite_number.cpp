@@ -10,8 +10,10 @@ Examples:
 
 // using namespace std;
 // #include <cstdio>
+#include <string>
 #include <iostream>
-// using namespace std;
+#include <windows.h>
+using namespace std;
 
 int opposite(int number) 
 {
@@ -25,8 +27,13 @@ double  opposite(double  number)
 
 
 main(){
-    system("cls"); printf("\n");
-    int i = 10; double f = 13.13;
+    system("cls"); int tm = 6000;
+    // for (int i=0;i<12;i++){
+    //     printf("\n"); }
+    int i = 10; double f = 13.13; string s;
     printf("Oppsite number for %5d  is %5d \n", i, opposite(i));
     printf("Oppsite number for %8.2f  is %8.2f \n", f, opposite(f));
+    Sleep(tm); // "windows.h"
+
+    // cin >> s;
 }
