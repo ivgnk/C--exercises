@@ -1,5 +1,7 @@
 #include <iostream>
 #include <string>
+#include <algorithm>
+
 using namespace std;
 
 void test_string(){
@@ -8,6 +10,23 @@ void test_string(){
     printf("str len = %d\n",str.length());
     printf("str len = %d\n",str.empty());
     printf("str len = %d\n",s2.empty());
+
+    printf("--- Проверка повторения \n");
+    string s = "lbabal";
+    printf("before s = %s\n",s.c_str());
+    // https://stackoverflow.com/questions/11310898/how-do-i-get-the-type-of-a-variable
+//    cout << "typeid(var).name()" << endl;
+//    cout << typeid(s.begin()).name() << endl;
+//    cout << typeid(s.end()).name() << endl;
+
+    printf("after\n");
+    std::sort(s.begin(), s.end());
+    printf("after sort = %s\n",s.c_str());
+    bool uniq = std::unique(s.begin(), s.end()) == s.end();
+    cout << "uniq ="+ to_string(uniq) << endl;
+    cout << s << endl;
+    // printf("after s = %s\n",s.c_str());
+
 }
 
 void test_cycles(){
@@ -38,11 +57,16 @@ void test_bool() {
     bool b1 = false;
     cout << b0 << endl;
     cout << b1 << endl;
+    printf("---\n");
+    string s0 = to_string(b0);
+    string s1 = to_string(b1);
+    cout << s0+" - " << typeid(s0).name() << endl;
+    cout << s1+" - " << typeid(s1).name()<< endl;
 }
 
 int main() {
-  //  test_string();
-  //  test_cycles();
+   test_string();
+//    test_cycles();
   // test_return();
-  test_bool();
+//  test_bool();
 }
