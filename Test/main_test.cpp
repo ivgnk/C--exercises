@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 #include <algorithm>
+#include <iostream>
 
 using namespace std;
 
@@ -64,9 +65,24 @@ void test_bool() {
     cout << s1+" - " << typeid(s1).name()<< endl;
 }
 
+#include <string.h>
+void test_strtok(){
+    // system("cls");
+    char str[] = "Это не баг, это фича.";
+    printf("Разделение строки = \"%s\" = на лексемы.", str);
+    char *pch = strtok(str, " ,."); //во втором параметре указаны разделители (пробел, запятая, точка)
+    printf("\nЛексемы:");
+    while (pch != NULL) //пока есть лексемы
+    {
+        printf("\n%s", pch);
+        pch = strtok(NULL, " ,.");
+    }
+}
+
 int main() {
    test_string();
 //    test_cycles();
   // test_return();
 //  test_bool();
+    test_strtok();
 }
