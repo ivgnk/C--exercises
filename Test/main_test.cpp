@@ -17,7 +17,7 @@ void test_cycles(){
   int jn = 3;
   for (int i=0; i<=in; i++){
       for (int j=0; j<=jn; j++) {
-          if ((i==1) && (j==1)) { printf("goto\n\n"); goto lab;}
+          if ((i==1) && (j==1)) { printf("goto\n"); goto lab;}
           if ((i==2) && (j==2)) { printf("break\n\n"); break;} // прерывает только вложенный цикл, испольуй goto
                 else {printf("i=%d  j=%d  i+j=%d\n",i,j,i+j);}
           lab:
