@@ -26,7 +26,23 @@ void test_cycles(){
   }
 }
 
+int test_return() {
+    printf("before return");
+    return 1;
+    printf("after return");
+    return 0;
+}
+
+void test_bool() {
+    bool b0 = true;
+    bool b1 = false;
+    cout << b0 << endl;
+    cout << b1 << endl;
+}
+
 int main() {
   //  test_string();
-  test_cycles();
+  //  test_cycles();
+  // test_return();
+  test_bool();
 }
