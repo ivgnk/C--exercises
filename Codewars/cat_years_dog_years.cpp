@@ -19,7 +19,6 @@ Dog Years
 #include <string>
 #include <iostream>
 #include <algorithm>
-#include <algorithm>
 #include<vector>
 
 using namespace std;
