@@ -111,6 +111,7 @@ https://bestofcpp.com/repo/symengine-symengine-cpp-math
 
 # Sites / Authors  
 **https://habr.com/ru/hubs/cpp**       
+2023 **[Применение контейнеров и алгоритмов STL в C++](https://habr.com/ru/companies/otus/articles/793278/)**          
 
 **[Michael Kerrisk](man7.org)**              
 [Book: Michael Kerrisk. The Linux Programming Interface](https://man7.org/tlpi/index.html)          
