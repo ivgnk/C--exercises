@@ -49,6 +49,8 @@ https://ru.wikipedia.org/wiki/MinGW
 
 ### Configuration                     
 24.02.2023 [Установка компилятора gcc и Visual Studio Code на ОС Windows | Язык C для начинающих](https://www.youtube.com/watch?v=TGpYh9X1PYk)                     
+
+язык программирования C++ пакетный менеджер canon установить библиотеку boost для Clion
 2014 [Setup Boost in Clion](https://stackoverflow.com/questions/36519453/setup-boost-in-clion)                  
 
 # Package Managers
