@@ -1,2 +1,3 @@
-<div style="text-align: left;">
+<div dir="rtl">متن فارسی</div>
+
 Adviсe
