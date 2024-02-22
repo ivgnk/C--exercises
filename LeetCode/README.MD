@@ -10,7 +10,7 @@ https://leetcode.com/studyplan/leetcode-75/
 https://leetcode.com/studyplan/top-100-liked/       
 https://leetcode.com/studyplan/top-interview-150/
 </div>
-- - -
-2022 Оформляем README-файл профиля на GitHub https://habr.com/ru/articles/649363/           
+- - -                      
+2022 **[Оформляем README-файл профиля на GitHub](https://habr.com/ru/articles/649363)**                            
 
 
