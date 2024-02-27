@@ -119,5 +119,8 @@ https://bestofcpp.com/repo/symengine-symengine-cpp-math
 **[Michael Kerrisk](man7.org)**              
 [Book: Michael Kerrisk. The Linux Programming Interface](https://man7.org/tlpi/index.html)          
 
+**[60 антипаттернов для С++ программиста](https://pvs-studio.ru/ru/blog/posts/cpp/1053/)**                     
+
+
 - - -
 **[Ликбез по типизации в языках программирования](https://habr.com/ru/articles/161205/)**          
