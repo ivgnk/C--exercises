@@ -119,7 +119,11 @@ https://bestofcpp.com/repo/symengine-symengine-cpp-math
 **[Michael Kerrisk](man7.org)**              
 [Book: Michael Kerrisk. The Linux Programming Interface](https://man7.org/tlpi/index.html)          
 
-**[60 антипаттернов для С++ программиста](https://pvs-studio.ru/ru/blog/posts/cpp/1053/)**                     
+**[60 антипаттернов для С++ программиста](https://pvs-studio.ru/ru/blog/posts/cpp/1053/)** 
+**[Как я пишу на C по состоянию на конец 2023 года](https://habr.com/ru/companies/piter/articles/774596/)**  
+**[Подводные камни C++. Решаем загадки неопределённого поведения, ч. 2](https://habr.com/ru/companies/ncloudtech/articles/755004/)**   
+
+
 
 
 - - -
